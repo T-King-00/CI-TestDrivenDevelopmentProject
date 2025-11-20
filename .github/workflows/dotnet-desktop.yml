@@ -28,8 +28,7 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
+
 
     # Add  MSBuild to the PATH: https://github.com/microsoft/setup-msbuild
     - name: Setup MSBuild.exe
@@ -43,10 +42,11 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
       
+    - name: Build
+      run: dotnet build --no-restore
+      
     # Execute all unit tests in the solution
     - name: Execute tests
       run: dotnet test
 
-    - name: Build
-      run: dotnet build --no-restore
 
