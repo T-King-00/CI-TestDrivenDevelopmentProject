@@ -1,3 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
+namespace ConsoleApp1;
 
-Console.WriteLine("Hello, World!");
+public class Program
+{
+    public static void Main(string[] args)
+    {   
+        Console.WriteLine("Welcome to the Bank System !");
+    }
+}
