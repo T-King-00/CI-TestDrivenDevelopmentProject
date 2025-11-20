@@ -2,6 +2,7 @@
 
 public class BankAccount
 {
+    
     private string accountHolderName;
     private Guid accountHolderNumber;
     private string accountHolderPin;
@@ -10,20 +11,16 @@ public class BankAccount
     private float currentBalance;
 
     public string AccountHolderName => accountHolderName;
-
     public Guid AccountHolderNumber => accountHolderNumber;
-
     public string AccountHolderPin => accountHolderPin;
-
     public string AccountHolderPhoneNumber => accountHolderPhoneNumber;
-
     public string AccountHolderType => accountHolderType;
-
     public float CurrentBalance => currentBalance;
+    
     public static List<BankAccount> BankAccounts = new List<BankAccount>();
     
-        public static void Intiate()
-        {
+    public static void Intiate()
+    {
             BankAccount acc1 = new BankAccount("mike", "free", 100, "1234");
             BankAccount acc2 = new BankAccount("jake", "free", 100, "1234");
             BankAccount acc3 = new BankAccount("micheal", "free", 100, "1234");
@@ -31,7 +28,7 @@ public class BankAccount
             BankAccounts.Add(acc1);
             BankAccounts.Add(acc2);
             BankAccounts.Add(acc3);
-        }
+    }
     
         public BankAccount(string accountHolderName , string accountHolderType ,float currentBalance,string accountHolderPin)
         {
