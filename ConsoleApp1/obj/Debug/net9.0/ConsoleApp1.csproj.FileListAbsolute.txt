@@ -1,0 +1,15 @@
+E:\Projects2\CI-TestDrivenDevelopmentProject\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+E:\Projects2\CI-TestDrivenDevelopmentProject\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+E:\Projects2\CI-TestDrivenDevelopmentProject\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+E:\Projects2\CI-TestDrivenDevelopmentProject\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+E:\Projects2\CI-TestDrivenDevelopmentProject\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+E:\Projects2\CI-TestDrivenDevelopmentProject\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects2\CI-TestDrivenDevelopmentProject\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Projects2\CI-TestDrivenDevelopmentProject\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+E:\Projects2\CI-TestDrivenDevelopmentProject\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Projects2\CI-TestDrivenDevelopmentProject\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
+E:\Projects2\CI-TestDrivenDevelopmentProject\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+E:\Projects2\CI-TestDrivenDevelopmentProject\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+E:\Projects2\CI-TestDrivenDevelopmentProject\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+E:\Projects2\CI-TestDrivenDevelopmentProject\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+E:\Projects2\CI-TestDrivenDevelopmentProject\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll

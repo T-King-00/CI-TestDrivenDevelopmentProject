@@ -1,0 +1,8 @@
+E:\Projects2\CI-TestDrivenDevelopmentProject\UnitTesting\bin\Debug\net9.0\.msCoverageSourceRootsMapping_UnitTesting
+E:\Projects2\CI-TestDrivenDevelopmentProject\UnitTesting\bin\Debug\net9.0\CoverletSourceRootsMapping_UnitTesting
+E:\Projects2\CI-TestDrivenDevelopmentProject\UnitTesting\obj\Debug\net9.0\UnitTesting.csproj.AssemblyReference.cache
+E:\Projects2\CI-TestDrivenDevelopmentProject\UnitTesting\obj\Debug\net9.0\UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects2\CI-TestDrivenDevelopmentProject\UnitTesting\obj\Debug\net9.0\UnitTesting.AssemblyInfoInputs.cache
+E:\Projects2\CI-TestDrivenDevelopmentProject\UnitTesting\obj\Debug\net9.0\UnitTesting.AssemblyInfo.cs
+E:\Projects2\CI-TestDrivenDevelopmentProject\UnitTesting\obj\Debug\net9.0\UnitTesting.csproj.CoreCompileInputs.cache
+E:\Projects2\CI-TestDrivenDevelopmentProject\UnitTesting\obj\Debug\net9.0\UnitTesting.sourcelink.json
