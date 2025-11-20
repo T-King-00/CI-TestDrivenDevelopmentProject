@@ -43,10 +43,11 @@ jobs:
         
       
     - name: Build
-      run: dotnet build 
+      
+      run: dotnet build ConsoleApp1
       
     # Execute all unit tests in the solution
     - name: Execute tests
-      run: dotnet test
+      run: dotnet test UnitTesting
 
 
