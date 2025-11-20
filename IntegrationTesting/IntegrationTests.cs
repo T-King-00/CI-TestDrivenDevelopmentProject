@@ -16,7 +16,6 @@ public class IntegrationTests
         Console.WriteLine("onetime setup");
     }
 
-
     /* integration test case 1 :
     Description : Test create account and logining in modules*/
 
