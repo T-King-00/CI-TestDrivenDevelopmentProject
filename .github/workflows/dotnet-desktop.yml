@@ -49,5 +49,7 @@ jobs:
     # Execute all unit tests in the solution
     - name: Execute tests
       run: dotnet test UnitTesting
+      run: dotnet test IntegrationTesting
+      
 
 
