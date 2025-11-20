@@ -6,4 +6,3 @@
 ### System description: 
 -   Compact Bank system for depositing, withdrawing money and viewing AccountDetails using phoneNumber and pin .
 
-# CI-TestDrivenDevelopmentProject
