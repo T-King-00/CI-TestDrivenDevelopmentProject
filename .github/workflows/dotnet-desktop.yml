@@ -19,6 +19,8 @@ on:
     - main
     - testing
     
+env:
+   DOTNET_VERSION: '8.0.x' # The .NET SDK version to use
 
 jobs:
   build:
@@ -37,7 +39,7 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@v4
       with:
-        dotnet-version: 8.0.x
+        dotnet-version:${{ env.DOTNET_VERSION }}
         
     - name: Restore dependencies
       run: dotnet restore
